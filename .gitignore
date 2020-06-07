@@ -1,0 +1,10 @@
+venv
+vend/*
+*.pyc
+*.whl
+*.txt
+*.pdf
+logs
+logs/*
+\.idea
+\.idea/*
